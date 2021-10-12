@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LoginAndRegisterScreen</string>
+    <string name="i_forgot_my_password">I forgot my password</string>
+    <string name="create_an_account">Create an account</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="create_account">Create account</string>
+    <string name="repeat_password">Repeat password</string>
+    <string name="i_already_have_an_account">I already have an account</string>
+</resources>
